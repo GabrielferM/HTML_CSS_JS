@@ -1,0 +1,26 @@
+h1{
+    color: chocolate;
+    font-family: Arial;
+    font-size: 54px;
+
+}
+
+h2 {
+    font-size: 48px;
+    font-style: italic;
+    text-align: center;
+}
+
+h3 {
+    font-size: 48px;
+    font-style: oblique;
+    text-transform: uppercase;
+    text-decoration: line-through;
+}
+
+p {
+    text-align: justify;
+    text-indent: 28px;
+    color: brown;
+    font-variant: small-caps;
+}
